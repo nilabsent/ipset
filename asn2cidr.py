@@ -175,6 +175,9 @@ AS_LIST = {
     "datacamp": (
         60068,
     ),
+    "vultr": (
+        20473,
+    ),
 }
 
 def get_asns():
