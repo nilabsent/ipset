@@ -194,6 +194,10 @@ AS_LIST = {
     "frantech": (
         53667,
     ),
+    "gcore": (
+        199524,
+        202422
+    ),
 }
 
 def get_asns():
