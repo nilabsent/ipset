@@ -201,6 +201,9 @@ AS_LIST = {
     "linode": (
         63949,
     ),
+    "bunny": (
+        200325,
+    ),
 }
 
 def get_asns():
