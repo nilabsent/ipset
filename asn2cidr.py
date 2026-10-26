@@ -205,6 +205,10 @@ AS_LIST = {
     "bunny": (
         200325,
     ),
+    "scaleway": (
+        12876,
+        29447,
+    ),
 }
 
 def get_asns():
