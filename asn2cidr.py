@@ -209,6 +209,22 @@ AS_LIST = {
         12876,
         29447,
     ),
+    "creanova": (
+        51765,
+    ),
+    "fornex": (
+        48040,
+    ),
+    "zenlayer": (
+        21859,
+    ),
+    "scalaxy": (
+        58061,
+    ),
+    "melbicom": (
+        8849,
+        56630,
+    ),
 }
 
 def get_asns():
